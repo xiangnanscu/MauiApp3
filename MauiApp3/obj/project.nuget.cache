@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQBUl8lwxl9u+D+iWEYcapimSSJgV7S3e2mI8ObPdvfWLc+M5mr7MDoNwzxtGklyQ1i1S3uchdLxXY5PcCfg7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xn\\source\\repos\\MauiApp3\\MauiApp3\\MauiApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xn\\.nuget\\packages\\system.runtime.interopservices.nfloat.internal\\6.0.1\\system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
+    "C:\\Users\\xn\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.27\\microsoft.windows.sdk.net.ref.10.0.19041.27.nupkg.sha512"
+  ],
+  "logs": []
+}
